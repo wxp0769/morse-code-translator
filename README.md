@@ -1,8 +1,8 @@
-# [Morse Code Translator](https://morsecodetranslator.com)
+# [Morse Code Translator](https://morsecodetranslator.cc)
 
 [![npm-version]][npm] [![npm-downloads]][npm]
 
-Morse code encoder and Morse decoder with no dependencies. It supports Latin, Cyrillic, Greek, Hebrew, Arabic,
+[Morse code encoder](https://morsecodetranslator.cc) and [Morse code decoder](https://morsecodetranslator.cc) with no dependencies. It supports Latin, Cyrillic, Greek, Hebrew, Arabic,
 Persian, Japanese, Korean, and Thai, with audio-generation functionality using the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API).
 
 ## Installation
