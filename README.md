@@ -90,7 +90,7 @@ Special thanks to [Chris Jones](https://github.com/chris--jones), who added many
 Please consider referencing the website of this project, if you find this package useful for your work.
 
 ```html
-<a href="https://morsecodetranslator.com">Morse Code Translator</a>
+<a href="https://morsecodetranslator.cc">Morse Code Translator</a>
 ```
 
 ## License
